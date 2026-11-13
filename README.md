@@ -135,9 +135,8 @@ I also treated staffing distributions and numerical targets as proposals because
 
 - **Student:** Mohammed Nazir
 - **Course:** GRC206
-- **Student ID:** _Add official student ID before submission_
-- **Official email:** _Add official student email before submission_
-- **Submission date:** _Add submission date_
+- **Student ID:** 2025/GRC/2512799
+- **Submission date:** 15 - November, 2026.
 
 ## Assignment coverage
 
