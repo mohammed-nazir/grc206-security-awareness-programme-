@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you reference this academic work, cite it using the metadata below."
+title: "GRC206 Security Awareness Programme"
+type: report
+authors:
+  - family-names: "Nazir"
+    given-names: "Mohammed"
+year: 2026
+abstract: "A 12-month, risk-based security awareness programme for the fictional Northbridge Logistics scenario."
+keywords:
+  - security awareness
+  - governance risk and compliance
+  - phishing
+  - business email compromise
+  - security culture
+  - human risk management
