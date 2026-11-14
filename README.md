@@ -5,7 +5,7 @@
 [![Duration](https://img.shields.io/badge/Duration-12%20Months-548235)](#programme-at-a-glance)
 [![Status](https://img.shields.io/badge/Status-Submission%20Draft-BF8F00)](#pre-publication-checklist)
 
-A risk-based, role-specific security awareness programme for the fictional **Northbridge Logistics** scenario, prepared for **GRC206**.
+A risk-based, role-specific security awareness programme for the **Northbridge Logistics** scenario, prepared for **GRC206**.
 
 > **Academic-use notice:** This repository contains coursework based on a fictional organisation. It is not an operational security programme and contains no real employee records, credentials, incident evidence, or regulated customer data.
 
