@@ -638,6 +638,22 @@ To keep the programme affordable and manageable, Northbridge should:
 
 The Security/GRC Lead will remain responsible for coordinating the programme, while departmental owners will support delivery and follow-up.
 
-## 5.7 Conclusion
+## Conclusion
 
-The Improve stage will make the programme a continuous process rather than a collection of disconnected training sessions. Quarterly reviews, employee feedback, incident-triggered updates and positive recognition will help Northbridge identify weaknesses and adjust its activities throughout the year.
+The proposed Security Awareness Programme provides Northbridge Logistics with a structured and measurable approach to reducing human-related security risks.
+
+By prioritising invoice fraud, password reuse and the mishandling of regulated customer information, the programme addresses the key weaknesses identified in the organisational scenario.
+
+Its role-based training activities, phishing simulations, accessible reporting channels and defined performance indicators are designed to improve employee behaviour rather than simply increase training attendance.
+
+The quarterly review process will enable management to identify weaknesses, update training content and allocate resources where they are most needed.
+
+Ultimately, the success of the programme will depend on sustained management support, employee participation, effective measurement and the integration of security awareness into everyday organisational activities.
+
+## References and Learning Materials
+
+The programme was developed using the supplied GRC206 assignment brief and course learning material.
+
+GRC206 Assignment: Design a Security Awareness Program. Assignment brief, including the Northbridge Logistics scenario, assessment requirements, deliverables and marking criteria.
+
+GRC206: Designing a Successful Security Awareness Program. Course learning material covering the five-stage awareness programme lifecycle: Assess, Plan, Deliver, Measure and Improve.
