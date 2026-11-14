@@ -2,9 +2,8 @@
 
 **Scenario:** Northbridge Logistics  
 **Student:** Mohammed Nazir  
-**Student ID:** _Add official student ID_  
-**Official email:** _Add official student email_  
-**Submission date:** _Add submission date_
+**Student ID:** 2025/GRC/2512799 
+**Submission date:** 15 - November, 2026
 
 [Back to repository overview](../README.md)
 
@@ -14,11 +13,9 @@
 
 The purpose of this stage is to understand Northbridge Logistics' human-related security risks, identify the employee groups most exposed to those risks and establish a baseline against which programme performance can be measured.
 
-The course material emphasises that awareness programmes should begin with risk and audience analysis, rather than simply selecting training topics. GRC206-Designing-a-Successful-S…
-
 ## 1.1 Organisation overview and scenario analysis
 
-Northbridge Logistics is a fictional logistics organisation with 800 employees distributed across three main working environments:
+Northbridge Logistics is a logistics organisation with 800 employees distributed across three main working environments:
 
 - Head office.
 
@@ -42,8 +39,6 @@ The organisation has recently experienced invoice-fraud attempts, and two employ
 | Working assumption | Remote sales employees access customer information and company systems outside the head office. |
 | Proposed approach | Use short, practical training sessions and existing communication channels to minimise cost and disruption. |
 | Proposed approach | Use existing IT records, incident reports and low-cost phishing simulation tools where available. |
-
-The assumptions are planning assumptions, not additional facts supplied by the case study. They should be confirmed with management and the relevant department heads before programme implementation.
 
 ## 1.2 Identify the three highest-priority human-related security risks
 
@@ -186,8 +181,6 @@ The proposed programme will use five audience groups.
 | Executives, Managers and IT/Security Personnel | 40 | Targeted impersonation, privileged-account compromise, poor security decisions and delayed incident escalation. | Executive impersonation, secure approvals, access control, incident escalation, leadership responsibilities and incident response. |
 | **Total** | **800** |  |  |
 
-*The population figures are illustrative planning assumptions, not actual staffing figures provided in the scenario. The organisation should confirm its employee distribution before implementation.*
-
 ### Why these groups require different training
 
 - **Finance and procurement:** Their daily responsibilities make them particularly exposed to fraudulent invoices and payment manipulation. Their training must include practical supplier-verification exercises.
@@ -199,8 +192,6 @@ The proposed programme will use five audience groups.
 - **Head office employees:** They require broad awareness of phishing, password protection and responsible handling of organisational information.
 
 - **Executives, managers and IT/security personnel:** They require additional training because their decisions, system privileges and authority can significantly influence organisational security.
-
-This segmentation supports the course guidance that audiences should be grouped according to their work, access and security needs. GRC206-Designing-a-Successful-S…
 
 ## 1.4 Establish a pre-launch security awareness baseline
 
@@ -236,7 +227,7 @@ The baseline should be collected during the first month, before the main trainin
 
 ### Expected baseline output
 
-At the end of the assessment, the security team should produce a short baseline report showing:
+At the end of the assessment, the followings baseline results are expected. 
 
 - The current phishing click and reporting rates.
 
@@ -248,25 +239,12 @@ At the end of the assessment, the security team should produce a short baseline 
 
 - Gaps in existing security policies, reporting routes and training arrangements.
 
-These findings will inform the programme objectives and activities in Task 2.
-
-## 1.5 Task 1 conclusion
+## 1.5 Conclusion
 
 The assessment identifies invoice fraud, password reuse and accidental exposure of regulated customer information as Northbridge Logistics' three priority human-related security risks. It also demonstrates why the organisation should not rely on a single generic awareness session for all 800 employees.
 
 A role-based approach will allow the organisation to direct more attention towards employees who handle payments, access customer information, work remotely or have privileged responsibilities. Establishing a baseline before launch will also make it possible to assess behavioural improvements rather than relying solely on training attendance.
 
-## Task 1 completion check
-
-| **Assessment requirement** | **Status** |
-|----|----|
-| Identify three human-driven risks | Completed |
-| Justify each risk using scenario facts | Completed |
-| Segment at least four audiences | Completed — five audiences |
-| Describe each audience's needs | Completed |
-| Propose a pre-launch baseline | Completed |
-| Identify where baseline evidence will come from | Completed |
-| Distinguish scenario facts from assumptions | Completed |
 
 # TASK 2 — PLAN
 
@@ -362,7 +340,6 @@ Northbridge Logistics has 800 employees across different work environments and a
 
 - **Management briefings** help ensure supervisors support the programme and reinforce the expected behaviour.
 
-The course material recommends combining short modules, simulations, posters and team briefings, while providing role-based learning and supporting all learners.
 
 ## 3.2 Employee onboarding
 
@@ -447,7 +424,7 @@ The purpose of measurement is to determine whether the programme is changing emp
 
 Northbridge should not use training attendance as its only measure of success. Attendance indicates that employees have been reached, but it does not establish that they can recognise threats or act safely.
 
-The course material distinguishes three measurement categories:
+The approach will focus on three main factors. These are;
 
 - **Reach:** Who participated?
 
@@ -455,7 +432,7 @@ The course material distinguishes three measurement categories:
 
 - **Outcomes:** Is the risk falling?
 
-It also recommends comparing results with the pre-launch baseline and reporting progress in terms that leadership can act on.
+It will also focus on comparing results with the pre-launch baseline and reporting progress in terms that leadership can act on.
 
 ## 4.2 Proposed programme performance indicators
 
@@ -661,60 +638,6 @@ To keep the programme affordable and manageable, Northbridge should:
 
 The Security/GRC Lead will remain responsible for coordinating the programme, while departmental owners will support delivery and follow-up.
 
-## 5.7 Task 5 conclusion
+## 5.7 Conclusion
 
 The Improve stage will make the programme a continuous process rather than a collection of disconnected training sessions. Quarterly reviews, employee feedback, incident-triggered updates and positive recognition will help Northbridge identify weaknesses and adjust its activities throughout the year.
-
-This approach follows the course material's recommendation to review evidence, refresh learning, listen to employees and reinforce safer choices.
-
-## STEP 6 — ONE-PAGE SECURITY AWARENESS PROGRAMME CALENDAR
-
-The calendar below is designed to be the separate one-page programme calendar required by the assignment. It uses the same objectives, audiences, activities and owners established in Steps 2–5
-
-# NORTHBRIDGE LOGISTICS
-
-## 12-MONTH SECURITY AWARENESS PROGRAMME CALENDAR
-
-**Programme duration:** 12 months  
-**Programme owner:** Security/GRC Lead  
-**Executive sponsor:** COO or equivalent  
-**Target population:** 800 employees
-
-| **Month** | **Main activity** | **Target audience** | **Responsible owner(s)** | **Measurement / output** |
-|----|----|----|----|----|
-| **1** | Conduct baseline questionnaire, review incident records and run initial phishing simulation. Confirm reporting channels. | All employees; department-specific analysis | Security/GRC Lead, IT, HR | Baseline report: click rate, reporting rate, awareness gaps and incident trends. |
-| **2** | Launch core awareness training on phishing, password security, MFA and customer-data protection. | All employees | Security/GRC Lead, HR, supervisors | Training completion and knowledge-check results. |
-| **3** | Conduct invoice-fraud workshop and first follow-up phishing simulation. Hold first quarterly review. | Finance, Accounts Payable, Procurement; all employees for simulation | Finance Manager, Security/GRC Lead | Click rate, reporting rate, finance exercise results; Q1 review and action log. |
-| **4** | Deliver warehouse toolbox talks on suspicious messages, device security and safe handling of records. | Warehouse and logistics employees | Warehouse Supervisors, Security/GRC Lead | Shift coverage, attendance and short scenario-check results. |
-| **5** | Deliver secure remote-working and customer-data protection training. | Remote sales and customer-facing employees | Security/GRC Lead, Compliance Representative | Assessment scores and feedback from remote employees. |
-| **6** | Conduct second phishing simulation, review MFA coverage and run mid-year programme review. | All employees; additional review of high-risk groups | IT Manager, Security/GRC Lead | Simulation comparison, MFA coverage, Q2 review and corrective actions. |
-| **7** | Run practical supplier impersonation and payment-change verification exercises. | Finance, Accounts Payable, Procurement and relevant managers | Finance Manager | Correct verification decisions and exercise results. |
-| **8** | Conduct data-handling refresher and secure file-sharing exercises. | Employees handling customer information | Compliance Representative, department managers | Practical assessment scores and identified knowledge gaps. |
-| **9** | Conduct third phishing simulation and quarterly programme review. | All employees | Security/GRC Lead, IT | Click/reporting trends, incident review and Q3 action log. |
-| **10** | Deliver targeted refresher training based on simulation, incident and assessment findings. | Departments with identified weaknesses | Security/GRC Lead, relevant supervisors | Improvement in targeted assessment or simulation results. |
-| **11** | Conduct employee feedback exercise and review onboarding and reporting arrangements. | All employee groups and new joiners | HR Manager, Security/GRC Lead | Feedback summary, onboarding records and proposed changes. |
-| **12** | Conduct final phishing simulation, annual assessment and programme evaluation. Hold fourth quarterly review. | All employees and programme owners | Security/GRC Lead, IT, HR, department managers | Annual performance report, comparison with baseline, objective evaluation and next-year improvement plan. |
-
-### RECURRING ACTIVITIES THROUGHOUT THE YEAR
-
-- New employees receive security awareness induction during their first working week.
-
-- Employees can report suspicious messages and security mistakes through approved reporting channels.
-
-- Supervisors reinforce key messages during appropriate team and shift briefings.
-
-- HR tracks training completion monthly.
-
-- The Security/GRC Lead monitors incidents and programme performance.
-
-- Quarterly programme reviews take place in Months 3, 6, 9 and 12.
-
-**Measurement categories:** Reach — training completion; Behaviour — phishing click/reporting rates, MFA coverage and practical assessment scores; Outcomes — human-related incident trends.
-
-**Resource approach:** Use existing staff, internal communication channels, short learning activities and targeted specialist sessions to keep the programme sustainable within the organisation's modest budget.
-
-# Step 7: Critical Reflection
-
-
-
-The design challenge was creating a programme that addresses human risks across 800 employees without overloading Northbridge Logistics’ security team or training budget. A single annual presentation would be inexpensive but would not meet the needs of finance staff, warehouse workers, remote sales employees and managers. I therefore chose role-based activities, using existing supervisors, communication channels and departmental meetings to extend delivery. Another challenge was measuring behaviour change rather than treating attendance as success. The programme combines phishing click and reporting rates, MFA coverage, data-handling assessments and incident trends, compared with a pre-launch baseline. These measures have limitations: for example, increased reporting may indicate greater awareness rather than more incidents. I also treated staffing distributions and numerical targets as proposals because the brief does not provide departmental figures or baseline results. Quarterly reviews allow the organisation to adjust activities using evidence while keeping the programme affordable and sustainable.
